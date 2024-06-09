@@ -11,3 +11,6 @@ Authors:
 * Juan José Montes Raygoza - A00834630
 * Pedro Fernández Merino - A01733006
 * Rubén Darío Castro Terrazas - A00833945
+
+Las señales creadas y utilizadas se encuntran en la siguiente [Carpeta de drive - Señales y últimas actulizaciones](https://drive.google.com/drive/folders/1ELPqn_owjjuN9fCtHgWGgUJS4OV2Nu2s)
+Si se quiere generar señales diferentes, volver a correr el código calculate_b1_lifetime.
